@@ -1,0 +1,7 @@
+PyQt5==5.15.10
+requests==2.32.3
+numpy==1.26.4
+sounddevice==0.4.6
+scipy==1.13.0
+torch==2.3.0
+transformers==4.41.1
